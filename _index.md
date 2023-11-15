@@ -8,7 +8,7 @@ type: book
 tags: ["安全","云原生"]
 
 #分类，展示和分类筛选（开发中）
-categories: ["前端","NodeJs"]
+categories: ["前端"]
 # 书籍封面
 image: "/images/docs/example/cover.png"
 
