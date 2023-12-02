@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-date: 2019-12-06T16:50:52+08:00
+title: Volume
+order: 2
 ---
 
 Functions are great for stateless things but there are use cases where functions deal with data, that is best attached as volume.

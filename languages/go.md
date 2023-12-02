@@ -1,7 +1,7 @@
 ---
-title: "Go Functions"
-description: "Writing Go functions with fission"
-weight: 10
+title: Go Functions
+order: 4
+introduction: Writing Go functions with fission
 ---
 
 With Go plugin mechanism, fission supports Go as one of function languages.

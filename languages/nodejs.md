@@ -1,7 +1,7 @@
 ---
-title: "Node.js Functions"
-description: "Writing Node.js functions with fission"
-weight: 10
+title: Node.js Functions
+order: 3
+introduction: Writing Node.js functions with fission
 ---
 
 Fission supports functions written in Nodejs.

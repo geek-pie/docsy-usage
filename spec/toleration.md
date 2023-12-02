@@ -1,6 +1,6 @@
 ---
-title: "Toleration"
-date: 2019-12-06T16:48:14+08:00
+title: Toleration
+order: 3
 ---
 
 **Taints and tolerations** are mechanisms to influence scheduling of pods in Kubernetes.

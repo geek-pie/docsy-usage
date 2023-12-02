@@ -1,6 +1,6 @@
 ---
-title: "Sidecar and Init Container"
-date: 2019-12-06T16:52:08+08:00
+title: Sidecar and Init Container
+order: 1
 ---
 
 ## Init container

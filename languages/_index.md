@@ -1,6 +1,5 @@
 ---
-title: "Languages (Environment)"
-weight: 50
-description: >
-  Tutorial for supported language
+title: Languages (Environment)
+order: 2
+introduction: Tutorial for supported language
 ---
