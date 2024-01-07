@@ -1,5 +1,6 @@
 ---
 title:  docsy-usage
+cover: https://avatars.githubusercontent.com/u/14258591?v=4
 introduction: 这是本书的简介，用于在首页进行展示
 ---
 # 为什么有这本书？
