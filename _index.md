@@ -1,24 +1,8 @@
 ---
-title:  Usage
-#权重，值越小排序越靠前
-type: book
-# 标签，展示和分类筛选（开发中）
-tags: ["安全","云原生"]
-
-#分类，展示和分类筛选（开发中）
-categories: ["前端"]
-# 书籍封面
-image: /images/docs/example/cover.png 
-
-#作者信息
-author:
-  title: 刘俊
-  logo: /images/authors/shutong.jpg
-  description: 专注前端技术
-  link: /authers/liujun
-introduction: Get started with Serverless on Kubernetes in 5 minutes! Learn how to set up Fission, its key concepts, how to create and invoke a function, monitor its performance, and more...
+title:  docsy-usage
+introduction: 这是本书的简介，用于在首页进行展示
 ---
-# 1
-Get started with Serverless on Kubernetes in 5 minutes! Learn how to set up Fission, its key concepts, how to create and invoke a function, monitor its performance, and more...
-# 2
-Get started with Serverless on Kubernetes in 5 minutes! Learn how to set up Fission, its key concepts, how to create and invoke a function, monitor its performance, and more...
+# 为什么有这本书？
+这个是这本书的作用，用来展示目录结构的
+# 为什么在这里？
+因为在这里的位置是最适合的
